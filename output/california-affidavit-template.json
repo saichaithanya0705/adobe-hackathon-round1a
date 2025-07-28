@@ -1,0 +1,55 @@
+{
+  "title": "AFFIDAVIT OF EXECUTION",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "AFFIDAVIT OF EXECUTION",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Testator",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "SWORN STATEMENT",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "First Witness",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Signature: _____________________________________________________________",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Full Name (Printed): _____________________________________________________",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Address: ______________________________________________________________",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Second Witness",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Signature: _____________________________________________________________",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Full Name (Printed): _____________________________________________________",
+      "page": 2
+    }
+  ]
+}
